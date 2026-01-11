@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Nano Fabrication
+# BlackRoad Nano-Fabrication
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Nanoscale manufacturing control and simulation platform.
 
-## 🚀 Quick Start
+## Features
+- **Process Control** - Precision manufacturing
+- **Simulation** - Nanoscale physics modeling
+- **Metrology** - Measurement and analysis
+- **Defect Detection** - AI-powered QC
+- **Recipe Management** - Process optimization
+- **Equipment Integration** - Tool connectivity
 
-```bash
-./blackroad-nano-fabrication.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
